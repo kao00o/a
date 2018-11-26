@@ -1,4 +1,4 @@
-package cn.midn.aio.server.client;
+package cn.midn.aio.client;
 
 import cn.midn.commons.ServerInfo;
 import cn.midn.util.InputUtil;
